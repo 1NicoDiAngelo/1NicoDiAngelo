@@ -4,5 +4,5 @@
 ![NICO (5)](https://github.com/user-attachments/assets/5a94432b-f927-4343-bfa3-433d138330e5)
                               [strawpage](https://keithaustin.straw.page/)
 ![NICO (5)](https://github.com/user-attachments/assets/ba1f8b49-218c-4775-ae4d-e4094317e75c)
-                            live / loath / die
+                            *live* / ~~loath~~ / **die**
 ![NICO (5)](https://github.com/user-attachments/assets/1f563815-bca0-467b-850a-59787c2520e1)
